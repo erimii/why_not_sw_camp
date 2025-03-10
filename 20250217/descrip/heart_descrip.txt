@@ -1,0 +1,12 @@
+RestingBP	혈압
+Cholesterol	콜레스테롤 농도
+FastingBS	공복상태 혈당/ 120 이상이면 1
+RestingECG	심전도
+MaxHR	최대 심박수
+ExerciseAngina	협심증 경험 여부
+HeartDisease	심장병 있으면 1
+
+
+'Age',
+'Sex',
+'ChestPainType',
