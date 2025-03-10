@@ -1,0 +1,13 @@
+'show_id', 
+'type',  영화 또는 TV쇼
+'title', 
+'director', 
+'cast', 
+'country', : 시청할 수 있는 국가 이름
+'date_added',
+'release_year', 
+'rating', : 넷플릭스 등급 표시
+'duration', 
+'listed_in', : 장르
+'description'
+     
